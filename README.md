@@ -7,7 +7,7 @@ This Swing based application takes user input (generally a lecture, story, etc..
 
 #Usage: 
 
-  Run the jar in the bin directory. There may be some issues with the common_words.txt file not being bundled in with   the jar, if that's the case, simply put the text file (included under data directory) in the directory you are       running the jar in.  
+  Run the jar in the bin directory. There may be some issues with the common_words.txt file not being bundled in with   the jar, if that's the case, simply put the text file (included under src directory) in the directory you are       running the jar in.  
 
 
 #Libraries used
