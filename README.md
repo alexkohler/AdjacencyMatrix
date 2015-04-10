@@ -5,10 +5,11 @@ This Swing based application takes user input (generally a lecture, story, etc..
 
 ![](http://i.imgur.com/YOacr94.png)
 
-Usage: run the jar in the bin directory. There may be some issues with the common_words.txt file not being bundled in with the jar, if that's the case, simply put the text file (included under data directory) in the directory you are running the jar in.  
+*Usage:* 
+  Run the jar in the bin directory. There may be some issues with the common_words.txt file not being bundled in with   the jar, if that's the case, simply put the text file (included under data directory) in the directory you are       running the jar in.  
 
 
-Libraries used
-Guava for HashBasedTable
-SuperCSV for managing data (via a CSV file)
-Gephi for visualization
+*Libraries used*
+  Guava for HashBasedTable
+  SuperCSV for managing data (via a CSV file)
+  Gephi for visualization
